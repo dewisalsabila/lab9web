@@ -18,7 +18,7 @@ Buat file baru dengan nama header.php pada folder lab9_php_modular
 
 ## <b> LANGKAH 4 </b>
 Buat file baru dengan nama footer.php pada folder lab9_php_modular
-![Screenshot 2024-12-03 202717](https://github.com/user-attachments/assets/35cb7698-2b75-4a18-abf9-2f23f744fec8)
+![Screenshot 2024-12-03 202717](https://github.com/user-attachments/assets/82f7c6e0-71f9-49c3-9bda-9a0d4112a9b2)
 
 ## <b> LANGKAH 5 </b>
 Buat file baru dengan nama home.php pada folder lab9_php_modular
